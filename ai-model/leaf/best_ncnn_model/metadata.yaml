@@ -1,0 +1,16 @@
+description: Ultralytics best model trained on c:\Users\satui\OneDrive\Desktop\04
+  COMISSION_PROJECTS\pg-tomato-leaf\notebooks\tomato_leaf_health-1\data.yaml
+author: Ultralytics
+date: '2026-05-15T09:52:10.763698'
+version: 8.3.40
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: leaf_healthy
+  1: leaf_unhealthy
